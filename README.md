@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RFahimi/Group_Research/blob/main/code/Dataset.ipynb)
 
-# Group Research – Health System Resilience in FCAS
+# Health System Resilience in FCAS
 
 This repository contains the code and data used in our group research project on health system resilience in fragile and conflict-affected settings (FCAS).
 
